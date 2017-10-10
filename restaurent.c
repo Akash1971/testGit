@@ -4,7 +4,7 @@ void ordermenu()
 {
 
     printf("\t\t\tOrderMenu\n");
-    printf("\t1. Burger, Price: 150 TK\n");
+    printf("\t1. Vegitable Burger, Price: 150 TK\n");
     printf("\t2. Chicken, Price: 350 TK\n");
     printf("\t3. Drinks, Price: 35 TK per Botal\n");
     printf("\t4. Fried Chicken, Price: 260 Tk\n");
